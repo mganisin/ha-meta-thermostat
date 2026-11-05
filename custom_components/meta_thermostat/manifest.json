@@ -1,0 +1,12 @@
+{
+  "domain": "meta_thermostat",
+  "name": "Meta Thermostat",
+  "codeowners": ["@mganisin"],
+  "documentation": "https://github.com/mganisin/ha-meta-thermostat",
+  "issue_tracker": "https://github.com/mganisin/ha-meta-thermostat/issues",
+  "dependencies": ["climate"],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "local_polling",
+  "integration_type": "device"
+}
